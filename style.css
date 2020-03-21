@@ -1,0 +1,30 @@
+p,
+h1,
+h2 {
+    color: red;
+}
+
+h1 {
+    color: salmon;
+}
+
+h2 {
+    color: slategrey;
+}
+
+h3 {
+    color: turquoise;
+}
+
+h4 {
+    color: tomato;
+}
+
+h5 {
+    color: yellow;
+}
+
+h6 {
+    color: yellowgreen;
+    letter-spacing: 10px;
+}
